@@ -6,8 +6,13 @@ authors = ["JimmyBlue <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8.12"
-discord-py-interactions = "4.1.0"
+discord-py-interactions = ">=4.1.0"
 python-dotenv = "0.19.2"
+interactions-wait-for = "^1.0.6"
+interactions-files = "^1.1.5"
+psutil = "^5.9.2"
+dinteractions-Paginator = "^2.0.2"
+googletrans = "^3.0.0"
 
 
 [tool.poetry.dev-dependencies]
